@@ -11,12 +11,12 @@ If our server creates regular log files in a long run time, eventually the disk 
 
 Steps of script
 
-01 provide path of the directory
-02 check if directory is present
-03 create 'archieve' folder
-04 find all files with size more than 20mb
-05 compress the files
-06 move compressed file to archieve
-07 make a cron job to run the script automatically
+01) provide path of the directory
+02) check if directory is present
+03) create 'archieve' folder
+04) find all files with size more than 20mb
+05) compress the files
+06) move compressed file to archieve
+07) make a cron job to run the script automatically
 
 
