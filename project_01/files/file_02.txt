@@ -1,0 +1,12 @@
+econd file
+
+echo "file for test"
+
+echo "second file"
+
+date
+
+pwd
+
+la
+
